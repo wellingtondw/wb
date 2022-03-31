@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render the large size and primary variant by default 1`] = `
+.c0 {
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  text-transform: initial;
+  border-radius: 0.4rem;
+  -webkit-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+  font-size: 2.0rem;
+  padding: 1.6rem 10rem;
+  color: #FEFEFE;
+  background: #C02838;
+}
+
+.c0:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.c0:hover:not(:disabled) {
+  background: #b32534;
+}
+
+<button
+  class="c0"
+>
+  ver ofertas
+</button>
+`;
