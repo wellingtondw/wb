@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should be able to render correctly 1`] = `
+<div
+  class="sc-bczRLJ fZgKxy"
+>
+  <img
+    class="sc-gsnTZi kcForN"
+    src="webmotors.svg"
+  />
+</div>
+`;
