@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Checkbox /> should render with label 1`] = `
+<div
+  class="sc-bczRLJ kfAyjk"
+>
+  <input
+    class="sc-gsnTZi iGGKSa"
+    id="check"
+    type="checkbox"
+    value=""
+  />
+  <label
+    class="sc-dkzDqf cdBSzI"
+    for="check"
+  >
+    checkbox label
+  </label>
+</div>
+`;
