@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon /> should be able to render correctly 1`] = `
+<span
+  class="icon-car"
+  style="font-size: 4.0rem;"
+/>
+`;
