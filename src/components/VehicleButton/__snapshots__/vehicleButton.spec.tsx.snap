@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VehicleButton /> should be able to render correctly 1`] = `
+<button
+  class="sc-bczRLJ bwBiia sc-gsnTZi bOupwY"
+>
+  <span
+    class="icon-car"
+    style="font-size: 4.0rem;"
+  />
+  <div>
+    <span>
+      Comprar
+    </span>
+    <p>
+      Carros
+    </p>
+  </div>
+</button>
+`;
