@@ -7,7 +7,7 @@ export const INITIAL_STATE: IVehicleState = {
     model: [],
     version: [],
   },
-  loading: true,
+  loading: false,
   error: false,
 };
 
