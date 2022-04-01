@@ -1,0 +1,32 @@
+@font-face {
+  font-family: icomoon;
+  src: url("../assets/fonts/icomoon.ttf?67ciq7") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+[class*=" icon-"],
+[class^="icon-"] {
+  font-family: icomoon !important;
+  speak: never;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e902";
+}
+.icon-location:before {
+  content: "\e903";
+}
+.icon-motorcycle:before {
+  content: "\e900";
+}
+.icon-car:before {
+  content: "\e901";
+}
