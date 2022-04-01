@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> should be able to render correctly 1`] = `
+<div
+  class="sc-bczRLJ bzCupB"
+  role="select"
+>
+  <button
+    class="sc-gsnTZi hzeSGz"
+  >
+    <label
+      class="sc-dkzDqf fwemrT"
+    >
+      label
+    </label>
+  </button>
+  <div
+    aria-hidden="true"
+    class="sc-hKMtZM jAyrcp"
+    data-testid="drop"
+  >
+    <button
+      class="sc-eCYdqJ gSutqM"
+    >
+      100km
+    </button>
+    <button
+      class="sc-eCYdqJ gSutqM"
+    >
+      200km
+    </button>
+    <button
+      class="sc-eCYdqJ gSutqM"
+    >
+      300km
+    </button>
+  </div>
+</div>
+`;
