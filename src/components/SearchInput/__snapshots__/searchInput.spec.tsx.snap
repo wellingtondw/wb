@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchInput /> should be able to render correctly 1`] = `
+<div
+  class="sc-bczRLJ dCOqkO"
+>
+  <div
+    class="sc-hKMtZM enDLmK"
+  >
+    <span
+      class="icon-location"
+      style="font-size: 26px;"
+    />
+    <p>
+      label
+    </p>
+  </div>
+  <input
+    class="sc-gsnTZi bHaydG"
+    type="text"
+    value=""
+  />
+  <button
+    class="sc-eCYdqJ bwkndC"
+  >
+    <span
+      class="icon-close"
+      style="font-size: 16px;"
+    />
+  </button>
+</div>
+`;
